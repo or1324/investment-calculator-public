@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Investment Calculator</string>
+    <string name="key">ca-app-pub-5939056485096419~8322729060</string>
+<!--    <string name="ad_unit">ca-app-pub-5939056485096419/4206540022</string>-->
+    <string name="ad_unit">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
